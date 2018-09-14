@@ -1,0 +1,21 @@
+1.1		Create View Object 
+	1.2	Added class line under db
+
+2.1		Go to api/PSNewsService and add the url for view object
+
+3.1		Create a new Dao if necessary and add new query lines
+
+4.1		Create View Model
+	4.2	Create the holder
+	4.3	put viewModel in di
+
+
+5.1		Create the xml files
+
+6.1		Create the UI Activity and fragment
+	6.2		Create new function at respository
+
+7.1		Create new Tasks under task
+		Add new getNextPage function in respository
+		Add New LoadNextPage function in viewmodel
+		Add New Functions in viewmodel
